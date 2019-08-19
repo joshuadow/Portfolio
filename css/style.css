@@ -316,7 +316,7 @@ header nav ul li a:focus {
 }
 
 .about .skills-content .progressbar-area h6 {
-  margin-bottom: 21px;
+  margin-bottom: 0px;
   font-weight: 500;
   color: #6e6e6e;
   font-size: 15px;
@@ -345,7 +345,7 @@ header nav ul li a:focus {
   overflow: visible;
   height: 4px;
   margin-top: 10px;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   letter-spacing: 1px;
   text-transform: uppercase;
   border-radius: 0;
