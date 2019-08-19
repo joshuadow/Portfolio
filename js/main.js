@@ -406,7 +406,7 @@
                 });
             } else if (top >= 150) {
                 scrollTopArea.css('display', 'block');
-                logo.attr("src", darkLogo);
+                logo.attr("src", "images/192.png");
                 headerText.css('color', '#454545');
                 header.css({
                     'background': '#fff',
