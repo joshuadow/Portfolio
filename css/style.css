@@ -845,6 +845,17 @@ header nav ul li a:focus {
   background: #ccc;
 }
 
+.codeDiv {
+  display: none;
+  width: 75vw;
+  padding-left: 0px;
+  margin: 0 auto;
+  border: thick black;
+  border-style: double;
+  position: inherit;
+  height: auto;
+}
+
 .client-testimonial .owl-theme .owl-controls .active span {
   background: #fff;
   opacity: 0.5;
