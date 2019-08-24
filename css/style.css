@@ -853,7 +853,7 @@ header nav ul li a:focus {
   border: thick black;
   border-style: double;
   position: inherit;
-  height: auto;
+  height: 100%;
 }
 
 .client-testimonial .owl-theme .owl-controls .active span {
