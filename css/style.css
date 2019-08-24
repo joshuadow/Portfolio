@@ -846,7 +846,7 @@ header nav ul li a:focus {
 }
 
 .codeDiv {
-  display: none;
+  display: block;
   width: 75vw;
   padding-left: 0px;
   margin: 0 auto;
