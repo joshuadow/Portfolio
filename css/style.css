@@ -1255,7 +1255,7 @@ footer .copyright p {
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-  background: #001f3f;
+  background: black;
 }
 
 .dl-menuwrapper button:after {
@@ -1289,7 +1289,7 @@ footer .copyright p {
   font-size: 16px;
   line-height: 20px;
   font-weight: 300;
-  color: #fff;
+  color: white;
   outline: none;
   overflow-x: hidden;
   word-wrap: break-word;
