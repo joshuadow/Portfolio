@@ -1333,7 +1333,7 @@ footer .copyright p {
 .dl-menuwrapper .dl-menu {
   margin: 0px 0 0 0;
   position: absolute;
-  width: 120%;
+  width: 200%;
   opacity: 0;
   pointer-events: none;
   -webkit-transform: translateY(10px);
