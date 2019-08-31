@@ -229,7 +229,7 @@
 
 
 
-            var contactSubmit = $('#contact-submit');
+            /*var contactSubmit = $('#contact-submit');
 
             contactSubmit.on('click', function(e) {
                 e.preventDefault();
@@ -258,7 +258,7 @@
 
                 });
 
-            });
+            });*/
 
 
             /*
