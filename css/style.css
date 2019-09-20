@@ -382,7 +382,7 @@ header nav ul li a:focus {
 .about .skills .progress-bar > span::before {
   position: absolute;
   bottom: -4px;
-  left: 12px;
+  left: 80px;
   display: block;
   width: 8px;
   height: 8px;
