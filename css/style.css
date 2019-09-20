@@ -376,7 +376,7 @@ header nav ul li a:focus {
   color: #fff;
   background-color: #333;
   line-height: 21px;
-  width: 36px;
+  /*width: 36px;*/
 }
 
 .about .skills .progress-bar > span::before {
