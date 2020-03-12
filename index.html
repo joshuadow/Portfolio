@@ -1047,5 +1047,12 @@
 
       gtag('config', 'UA-143407657-1');
     </script>
-
+    <script>
+        $(document).ready(function() {
+            //close menu on lost focus
+            $('.slicknav_menu').focusout(function(event){
+                $('#menu').slicknav('close'); //Here 'menu' is the id of ul.
+            });  
+        });
+    </script>
 </body>
