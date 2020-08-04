@@ -47,6 +47,9 @@ function showPDF(id){
 		case "pdf10":
 			document.getElementById('pdfEmbed').src = "imgs/CPSC_530_Final_Paper.pdf";
 			break;
+		case "pdf11":
+			document.getElementById('pdfEmbed').src = "imgs/Thesis.pdf";
+			break;
 	}
 	document.getElementById('pdfContainer').style.display = "block";
 };
